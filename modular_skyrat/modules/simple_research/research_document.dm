@@ -6,7 +6,7 @@
 		/obj/item/stack/sheet/cloth = 4,
 	)
 	category = CAT_TOOLS
-	crafting_flags = CRAFT_MUST_BE_LEARNED
+	#crafting_flags = CRAFT_MUST_BE_LEARNED ///Lumos edit, lets us craft this thing without needing to "learn it" first. Which is infact impossible to do so.
 
 /obj/item/research_paper
 	name = "research paper"
